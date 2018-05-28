@@ -1,4 +1,8 @@
 # webbDogPal
-Initial project to learn git and github
+project to learn git and github
+intelängre initial
 
 Så jävla fin asså, OOOOF
+
+
+En Liten lokal shit
